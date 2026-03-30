@@ -2,7 +2,7 @@
 Introducing Me
 Hi, I’m Nia-O! 👋
 __________________________________________________________________________________
-Innovative Engineer | Passionate IT Support Specialist | Mobile Device Management
+Innovative Engineer | Passionate IT Support Specialist |
 __________________________________________________________________________________
 I’m a former educator transitioning into IT, currently gaining hands-on experience with real-world IT applications. My focus is on building practical skills in troubleshooting, user support, and system administration.
 __________________________________________________________________________________
