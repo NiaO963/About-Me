@@ -1,5 +1,6 @@
 # About-Me
 Introducing Me
+
 Hi, I’m Nia-O! 👋
 __________________________________________________________________________________
 Innovative Engineer | Passionate IT Support Specialist |
@@ -9,10 +10,13 @@ ________________________________________________________________________________
 Certifications
 
 CompTIA A+ Core 1 ✅ March 2026
+
 CompTIA A+ Core 2 (expected May 2026)
+
 CompTIA Security+ (expected April 2026)
 __________________________________________________________________________________
 Current Projects
+
 Helpdesk Lab 1
 [https://github.com/NiaO963/helpdesk-lab1](https://github.com/NiaO963/helpdesk-lab1)
 
