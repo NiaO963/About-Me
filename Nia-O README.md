@@ -14,7 +14,7 @@ CompTIA Security+ (expected April 2026)
 __________________________________________________________________________________
 Current Projects
 Helpdesk Lab 1
-https://github.com/NiaO963/helpdesk-lab1
+[https://github.com/NiaO963/helpdesk-lab1](https://github.com/NiaO963/helpdesk-lab1)
 
  – Simulates a Level 1 IT support help desk environment. The lab demonstrates my ability to receive, triage, troubleshoot, and resolve common end-user IT issues, including user account creation, password resets, and verification via Terminal commands.
 __________________________________________________________________________________
